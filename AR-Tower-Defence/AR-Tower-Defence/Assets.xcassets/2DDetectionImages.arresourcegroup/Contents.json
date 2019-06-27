@@ -1,0 +1,86 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "base.arreferenceimage"
+    },
+    {
+      "filename" : "baseTexture.arreferenceimage"
+    },
+    {
+      "filename" : "BottomRight.arreferenceimage"
+    },
+    {
+      "filename" : "BRTexture.arreferenceimage"
+    },
+    {
+      "filename" : "spawn.arreferenceimage"
+    },
+    {
+      "filename" : "TLTexture.arreferenceimage"
+    },
+    {
+      "filename" : "TopLeft.arreferenceimage"
+    },
+    {
+      "filename" : "tower.arreferenceimage"
+    },
+    {
+      "filename" : "tower1.arreferenceimage"
+    },
+    {
+      "filename" : "tower2.arreferenceimage"
+    },
+    {
+      "filename" : "tower3.arreferenceimage"
+    },
+    {
+      "filename" : "wall1.arreferenceimage"
+    },
+    {
+      "filename" : "wall2.arreferenceimage"
+    },
+    {
+      "filename" : "wall3.arreferenceimage"
+    },
+    {
+      "filename" : "wall4.arreferenceimage"
+    },
+    {
+      "filename" : "wall5.arreferenceimage"
+    },
+    {
+      "filename" : "wall6.arreferenceimage"
+    },
+    {
+      "filename" : "wall7.arreferenceimage"
+    },
+    {
+      "filename" : "wall8.arreferenceimage"
+    },
+    {
+      "filename" : "wall9.arreferenceimage"
+    },
+    {
+      "filename" : "wall10.arreferenceimage"
+    },
+    {
+      "filename" : "wall11.arreferenceimage"
+    },
+    {
+      "filename" : "wall12.arreferenceimage"
+    },
+    {
+      "filename" : "wall13.arreferenceimage"
+    },
+    {
+      "filename" : "wall14.arreferenceimage"
+    },
+    {
+      "filename" : "walltexture.arreferenceimage"
+    }
+  ]
+}
